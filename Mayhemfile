@@ -1,0 +1,5 @@
+project: jacob-clemente/imagejs
+target: imagejs
+
+cmds:
+  - cmd: /imagejs @@
